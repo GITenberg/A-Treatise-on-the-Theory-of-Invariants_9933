@@ -1,0 +1,23 @@
+_repo: A-Treatise-on-the-Theory-of-Invariants_9933
+creator:
+  author:
+    agent_name: Glenn, Oliver E. (Oliver Edmunds)
+    alias: Glenn, Oliver Edmunds
+    birthdate: 1878
+    gutenberg_agent_id: '4912'
+    url: http://www.gutenberg.org/2009/agents/4912
+description: ''
+gutenberg_bookshelf: Mathematics
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9933'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Invariants'
+- !lcc 'QA'
+title: A Treatise on the Theory of Invariants
+url: http://www.gutenberg.org/ebooks/9933
